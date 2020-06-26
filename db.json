@@ -1,0 +1,35 @@
+{
+  "users":[{
+    "name": "Sundar",
+    "age" : 40,
+    "rank" : "Diamond",
+    "city": "Chennai"    
+  },
+  {
+    "name": "Johnson",
+    "age" : 55,
+    "rank" : "Sr.Manager",
+    "city": "Chennai"    
+  },
+  {
+    "name": "Ramu",
+    "age" : 45,
+    "rank" : "Director",
+    "city": "Banagalore"    
+  },
+  {
+    "name": "Ashok",
+    "age" : 57,
+    "rank" : "Sapphire",
+    "city": "Madurai"    
+  },
+  {
+    "name": "Binoy",
+    "age" : 50,
+    "rank" : "Ruby",
+    "city": "Kannoor"    
+  }
+  ],
+  "ranks":['Manager','Sr.Manager','Exe.Manager','Director','Sr.Director','Exe.Director','Pres.Director','Pres.Ruby','Pres.Sapphire','Pres.Diamond'],
+  "cities":['Chennai','Madurai','Bangalore','Kannoor','Mumbai Central','Navi Mumbai','Baroda','Surat']
+  }
