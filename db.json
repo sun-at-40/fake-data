@@ -30,6 +30,6 @@
     "city": "Kannoor"    
   }
   ],
-  "ranks":['Manager','Sr.Manager','Exe.Manager','Director','Sr.Director','Exe.Director','Pres.Director','Pres.Ruby','Pres.Sapphire','Pres.Diamond'],
-  "cities":['Chennai','Madurai','Bangalore','Kannoor','Mumbai Central','Navi Mumbai','Baroda','Surat']
+  "ranks":["Manager","Sr.Manager","Exe.Manager","Director","Sr.Director","Exe.Director","Pres.Director","Pres.Ruby","Pres.Sapphire","Pres.Diamond"],
+  "cities":["Chennai","Madurai","Bangalore","Kannoor","Mumbai Central","Navi Mumbai","Baroda","Surat"]
   }
